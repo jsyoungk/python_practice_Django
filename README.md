@@ -7,3 +7,7 @@ I hope that my second run through Django would allow me to understand it better 
 <li>Create portoflio ready pieces.</li>
 <li>Understand the inner working of back-end.</li>
 <li>If possible, help along those in the same boat as I am.</li>
+<br>
+<b><u>Credits and References Used</u></b> *I will update this list as I go on.*
+<li>The backgrounds I used for basic landing page: https://www.toptal.com/designers/subtlepatterns/ </li>
+<li>Majority of fonts I use I pull from: https://fonts.google.com/</li>
