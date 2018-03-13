@@ -14,3 +14,4 @@ I hope that my second run through Django would allow me to understand it better 
 <li>The backgrounds I used for basic landing page: https://www.toptal.com/designers/subtlepatterns/ </li>
 <li>Majority of fonts I use I pull from: https://fonts.google.com/</li>
 <li>Bootstrap: https://getbootstrap.com/docs/4.0/getting-started/introduction/</li>
+<li>Images for Coffee Haus: Udemy Python Course</li>
