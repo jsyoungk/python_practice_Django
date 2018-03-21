@@ -1,0 +1,16 @@
+body{
+  background-image: url("plaid.png");
+}
+
+.display-4{
+  text-align: center;
+}
+
+#carouselImages{
+  /* width: 50%; */
+  height: 300px;
+}
+
+.container{
+  text-align: center;
+}
